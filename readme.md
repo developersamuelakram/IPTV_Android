@@ -10,8 +10,8 @@
 
 #### APP LAYOUT 
 
-![](images/first.jpeg)
-![](images/second.jpeg)
+![](images/first.jpg)
+![](images/second.jpg)
 
 
 ##### Disclaimer: 
