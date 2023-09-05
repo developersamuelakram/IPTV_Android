@@ -1,4 +1,4 @@
-#### IPTV APP FOR ANDROID DEVICES (TV AND MOBILE)
+### IPTV APP FOR ANDROID DEVICES (TV AND MOBILE)
 
 ##### YouTube Tutorial: Coming soon 
 
