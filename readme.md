@@ -6,6 +6,7 @@
 
 1. Exo player implementation
 2. Hls Streaming, .m3u8
+3. Recyclerview items have focus 
 
 
 #### APP LAYOUT 
