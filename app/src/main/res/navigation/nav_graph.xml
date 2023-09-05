@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homie">
+
+    <fragment
+        android:id="@+id/homie"
+        android:name="com.example.mytvapp.ui.HomeFragment"
+        android:label="fragment_homie"
+        tools:layout="@layout/fragment_homie" >
+        <action
+            android:id="@+id/action_homie_to_playerFragment2"
+            app:destination="@id/playerFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/playerFragment2"
+        android:name="com.example.mytvapp.ui.PlayerFragment"
+        android:label="fragment_player"
+        tools:layout="@layout/fragment_player" >
+        <action
+            android:id="@+id/action_playerFragment2_to_homie"
+            app:destination="@id/homie" />
+    </fragment>
+</navigation>

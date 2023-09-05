@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Theme.MyTvApp" parent="@style/Theme.AppCompat.NoActionBar">
+
+
+    </style>
+</resources>
